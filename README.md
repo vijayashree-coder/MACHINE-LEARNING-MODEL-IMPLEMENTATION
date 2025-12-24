@@ -17,6 +17,7 @@ __Internship Period__ : 18 December 2025 - 15 January 2026
 __Mentor__ : Neela Santhosh Kumar 
 
 __Output__
+
 <img width="822" height="568" alt="Image" src="https://github.com/user-attachments/assets/ae335723-c8a0-4bad-a950-077360dd48ac" />
 
 __1. Project Overview__
